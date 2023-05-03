@@ -29,6 +29,8 @@
 
 ---
 
-Hosted on [GitHub Pages](https://pages.github.com) using the default theme
-[View On GitHub](https://github.com/astroseed/AshiyuOtsukimiNight)
+<div style="text-align: center;">
+	Hosted on [GitHub Pages](https://pages.github.com) using the default theme  
+	[View On GitHub](https://github.com/astroseed/AshiyuOtsukimiNight)
+</div>
 
